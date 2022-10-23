@@ -194,5 +194,7 @@ for lists in perms:
 # permutation_list = []
 # while order_of_permutation <= len(string):
 #     permutations(lista)
-# ------------------------------------------------------------
+------------------------------------------------------------
 print('new change')
+#
+print( 'new change 2')
